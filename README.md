@@ -45,4 +45,4 @@ Você também pode testar as rotas manualmente usando um cliente HTTP como o Pos
 
 ## Visualização 
 
-Os dados podem ser visualizados dentro do arquivo [veiculos.jso](https://github.com/Raul404/Locadora-de-veiculos/blob/main/veiculos.json) localizado na pasta principal.
+Os dados podem ser visualizados dentro do arquivo [veiculos.json](https://github.com/Raul404/Locadora-de-veiculos/blob/main/veiculos.json) localizado na pasta principal.
