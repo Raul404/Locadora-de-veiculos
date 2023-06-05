@@ -7,7 +7,7 @@ app.use('/veiculos', rotaVeiculo)
 
 const port = 8000
 app.listen(port,() =>{
-    console.log(`servidor rodando na porta ${port}`)
+    console.log(`servidor rodando no link http://localhost:${port}/veiculos`)
 })
 
 module.exports = app;
