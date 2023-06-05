@@ -43,3 +43,6 @@ Isso executará os testes usando o Mocha.
 
 Você também pode testar as rotas manualmente usando um cliente HTTP como o Postman ou o Insomnia. Basta enviar requisições para as rotas mencionadas na seção "Rotas" do README.
 
+## Visualização 
+
+Os dados podem ser visualizados dentro do arquivo veiculos.json localizado na pasta principal.
