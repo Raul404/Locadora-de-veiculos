@@ -1,4 +1,4 @@
-# Node Back
+# Locadora de Veiculos
 
 Este é um projeto de back-end em Node.js que gerencia veículos.
 
