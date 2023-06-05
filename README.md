@@ -15,10 +15,10 @@ npm install
 Para executar o projeto, use o seguinte comando:
 
 ```
-npm start
+node app.js
 ```
 
-Isso iniciará o servidor na porta 8000.
+Isso iniciará o servidor no link: (http://localhost:8000/veiculos).
 
 ## Rotas
 
